@@ -8,6 +8,7 @@ public class CreateIndigo {
 	{
 		System.out.println("flights data has been "); 
 		System.out.println("hello kailash");
+		System.out.println("sdbsj");
 	}
 
 }
