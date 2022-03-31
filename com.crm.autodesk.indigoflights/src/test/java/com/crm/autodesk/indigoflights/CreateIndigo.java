@@ -6,9 +6,16 @@ public class CreateIndigo {
 	@Test
 	public void createIndigoflights()
 	{
+
+		System.out.println("welcome to spicejet....");
+
 		System.out.println("flights data has been "); 
 		System.out.println("hello kailash");
+
 		System.out.println("sdbsj");
+
+
+
 	}
 
 }
