@@ -6,7 +6,8 @@ public class CreateIndigo {
 	@Test
 	public void createIndigoflights()
 	{
-		System.out.println("flights data has been ");
+		System.out.println("flights data has been "); 
+		System.out.println("hello kailash");
 	}
 
 }
